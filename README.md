@@ -1,6 +1,6 @@
 # Dotfiles
 
-Those dotfiles are managed using GNU stow.
+Those dotfiles are managed using [GNU stow](https://www.gnu.org/software/stow/).
 
 ## Usage
 
